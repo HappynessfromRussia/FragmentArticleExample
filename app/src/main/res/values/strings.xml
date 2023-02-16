@@ -5,4 +5,9 @@
     <string name="Quest_Article">Вам нравится эта статья?</string>
     <string name="yes">Yes</string>
     <string name="no">no</string>
+    <string name="yes_message">Охуенчик</string>
+    <string name="no_message">Хуита Конская</string>
+    <string name="no_message1">Хуита конская</string>
+    <string name="title">title</string>
+    <string name="article">article</string>
 </resources>
