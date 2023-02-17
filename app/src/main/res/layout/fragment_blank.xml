@@ -9,11 +9,11 @@
     <TextView
         android:id="@+id/fragment_header"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="49dp"
         android:padding="4dp"
         android:text="@string/Quest_Article"
         android:textAppearance="@style/Base.CardView"
-        android:textSize="24sp" />
+        android:textSize="14sp" />
 
     <RadioGroup
         android:id="@+id/radio_group"
